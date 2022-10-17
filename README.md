@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @monkeymars
 - 👀 I’m interested in Hiking & Photography
-- 🌱 I’m currently learning Dev Ops
 - 📫 How to reach me? monk3y.mars@gmail.com
 
 <!---
